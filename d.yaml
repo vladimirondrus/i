@@ -1,0 +1,16 @@
+charts:
+  apiintegrator:
+    version: 1.7.0
+    apps:
+      apiintegrator: 1.2.0-5-1
+   
+  tokenmaster:
+    version: 0.15.0
+    apps:
+      tokenmaster: 1.2.0-10-1
+
+  list:
+    version: 0.6.0
+    apps:
+      listmediator: 1.3.0-8
+      listdistributor: 1.3.0-4
